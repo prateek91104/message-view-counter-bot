@@ -10,7 +10,7 @@ from hydrogram.types import (
 
 api_id: int = api id
 api_hash: str = "api hash"
-token: str = "token"
+token: str = "8011181060:AAGmdMIig9vTcN-PlVmzfjgftZsUZGAVqcI"
 
 
 app = Client('viewcounterbot', in_memory=True, api_id=api_id, api_hash=api_hash, bot_token=token)
